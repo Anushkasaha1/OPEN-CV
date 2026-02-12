@@ -15,7 +15,7 @@ Training with a custom-built dataset
 
 Live webcam-based prediction
 
-###🧠 Technologies Used
+🧠 Technologies Used
 
 Python
 
@@ -26,3 +26,4 @@ MediaPipe
 NumPy
 
 Scikit-learn
+
